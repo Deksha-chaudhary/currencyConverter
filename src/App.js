@@ -51,6 +51,7 @@ const App = () => {
 <p className='excange-rate-result'>1,000 USD=83620.80 INR</p>
 
         </div>
+        
 
       </form>
 
